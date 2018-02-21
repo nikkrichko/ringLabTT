@@ -1,3 +1,5 @@
 Thumbs.db
 .git
 .idea
+target/
+/target/
